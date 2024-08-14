@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN,Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://yash-s-portfolio-three.vercel.app/](https://yash-s-portfolio-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yash-portfolio-v2.vercel.app/](https://yash-portfolio-v2.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **yash4success@gmail.com**
+- 📫 How to reach me **yashhegde010@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VtHK75_1vDU_NyogdZCBgPrqIBfjik4e/view](https://drive.google.com/file/d/1VtHK75_1vDU_NyogdZCBgPrqIBfjik4e/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1IIjiEao24tl1r4B5SAFI-nRQ4s8bPCx2?usp=drive_link](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
